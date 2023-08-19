@@ -32,7 +32,3 @@ Contributions to NexusSync are welcome! If you find any issues or have suggestio
 ## License
 
 NexusSync is released under the [MIT License](LICENSE).
-
----
-
-Elevate your data integration game with NexusSync. Build connected and resilient applications with ease. For inquiries and support, contact us at support@nexussync.com.
